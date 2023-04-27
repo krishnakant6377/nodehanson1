@@ -1,0 +1,11 @@
+{
+  "name": "handson1-node",
+  "version": "1.0.0",
+  "description": "this is handson 1 of node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "krishnakant verma",
+  "license": "ISC"
+}
